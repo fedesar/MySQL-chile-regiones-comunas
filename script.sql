@@ -419,5 +419,5 @@ VALUES
 	("Padre Hurtado","7","1"),
 	("Peñaflor","7","1");
   
-# ¡Felicidades! Tu base de datos ahora soporta las regiones y comunas de Chile, con potencial para cualquier ciudad del mundo. Un saludo y muchos éxitos con el proyecto que estés realizando, cualquier duda me comentas.
-# Un saludo, Fede Sarmiento.
+# ¡Felicidades! Tu base de datos ahora soporta las regiones y comunas de Chile, con potencial para cualquier ciudad del mundo. 
+# Un saludo y muchos éxitos con el proyecto que estés realizando, cualquier duda me comentas. Fede Sarmiento.
