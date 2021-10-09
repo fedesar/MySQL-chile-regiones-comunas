@@ -42,7 +42,7 @@ VALUES
   ('1','Región de Coquimbo'),
   ('1','Región de Valparaíso'),
   ('1','Región Metropolitana de Santiago'),
-  ('1','Región del Libertador General Bernardo O'Higgins'),
+  ('1',"Región del Libertador General Bernardo O'Higgins"),
   ('1','Región del Maule'),
   ('1','Región de Ñuble'),
   ('1','Región del Biobío'),
